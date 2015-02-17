@@ -1,7 +1,7 @@
 /*
  TutorialKit.h
  Created by Alex on 4/21/14.
- Copyright (c) 2014 DANIEL. All rights reserved.
+ Copyright (c) 2014 Alex Peterson. All rights reserved.
  
  The MIT License (MIT)
  

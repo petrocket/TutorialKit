@@ -3,7 +3,7 @@
 [![Version](http://cocoapod-badges.herokuapp.com/v/TutorialKit/badge.png)](http://cocoadocs.org/docsets/TutorialKit)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/TutorialKit/badge.png)](http://cocoadocs.org/docsets/TutorialKit)
 
-![alt tag](https://github.com/lostinthepines/TutorialKit/raw/master/Assets/tutorialkit.gif)
+![alt tag](https://github.com/petrocket/TutorialKit/raw/master/Assets/tutorialkit.gif)
 
 TutorialKit is a library for creating interactive step by step tutorials.  Highlight views with action messages, and show gestures without adding a lot of extra logic code to your app.
 
@@ -82,7 +82,7 @@ it simply add the following line to your Podfile:
 
 ## Author
 
-Alex Peterson, alex@inthepin.es 
+Alex Peterson
 
 ## License
 
